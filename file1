@@ -1,0 +1,19 @@
+total 120
+drwxr-xr-x  18 mjadid  candidates    612 Nov  5 22:31 .
+drwxr-xr-x  23 mjadid  candidates    782 Nov  5 16:41 ..
+drwxr-xr-x  15 mjadid  candidates    510 Nov  3 21:42 .git
+drwxr-xr-x   3 mjadid  candidates    102 Nov  3 21:47 .vscode
+-rw-r--r--   1 mjadid  candidates   1387 Nov  5 20:41 Makefile
+-rw-r--r--   1 mjadid  candidates      0 Oct 28 01:55 README.md
+drwxr-xr-x   9 mjadid  candidates    306 Nov  5 22:31 builtins
+drwxr-xr-x   4 mjadid  candidates    136 Nov  5 22:31 errors
+drwxr-xr-x  10 mjadid  candidates    340 Nov  5 22:31 execution
+drwxr-xr-x   4 mjadid  candidates    136 Nov  5 22:31 expander
+-rw-r--r--   1 mjadid  candidates      0 Nov  5 22:31 file1
+drwxr-xr-x   6 mjadid  candidates    204 Nov  5 22:31 lexer
+drwxr-xr-x  49 mjadid  candidates   1666 Nov  5 22:31 libft
+-rw-r--r--   1 mjadid  candidates   1897 Nov  3 08:03 main.c
+-rwxr-xr-x   1 mjadid  candidates  44064 Nov  5 22:28 minishell
+-rw-r--r--   1 mjadid  candidates   5603 Nov  5 21:05 minishell.h
+drwxr-xr-x   8 mjadid  candidates    272 Nov  5 22:31 parser
+drwxr-xr-x   5 mjadid  candidates    170 Nov  5 22:31 utils
